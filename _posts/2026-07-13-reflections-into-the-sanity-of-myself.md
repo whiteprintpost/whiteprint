@@ -1,7 +1,7 @@
 ---
 layout: post
 ---
-It appeared to me on that one morning that the ideas of a slow healing of my own internal volatility was far from fruition. That, in fact, the old stories and tales told by the great men long ago were true: the only being to save us from ourselves is, in fact, ourselves. We hold dear the idea that God may lead us to a greater outcome in the days to be, but we choicefully neglect the reality that God bears upon us the tools alone.
+It appeared to me on that one morning that the idea of a slow healing of my own internal volatility was far from fruition. That, in fact, the old stories and tales told by the great men long ago were true: the only being to save us from ourselves is, in fact, ourselves. We hold dear the idea that God may lead us to a greater outcome in the days to be, but we choicefully neglect the reality that God bears upon us the tools alone.
 
 And so, here we are on this Sunday to bear witness to the fractals of the mind. A scape for which no man truly understands the rules of the game. However, the language of the mind is one of pure rhetoric and discourse. Knowing this, we may all be confident that by employing our minds in the discipline of its natural inclination, we may better understand ourselves. Perhaps the opponent in the game of discourse may not be another party with a grievance, but rather the subconscious pleading of the self.
 
