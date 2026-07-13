@@ -2,7 +2,7 @@ title: Whiteprint
 author: Contact
 email: whiteprintjournal@gmail.com
 description: > # this means to ignore newlines until "twitter_username:"
-  A journal of ideas and sentiments. What you gain is your own. Your perception is a gift, unique in nature. Do well in using it.
+  A journal of ideas and primal sentiments. What you gain is your own. Your perception is a gift, unique in nature. Do well in using it.
 
 # social links
 # twitter_username: jekyllrb
@@ -25,7 +25,7 @@ description: > # this means to ignore newlines until "twitter_username:"
 #   instance: example.com
 
 
-show_excerpts: false # set to true to show excerpts on the homepage
+show_excerpts: true # set to true to show excerpts on the homepage
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
