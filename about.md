@@ -8,4 +8,4 @@ A simple collection of letters from me to you. If you find them thought provokin
 
 Take them at face value and run with your first impression. It is the correct understanding.
 
-I am always open to new ideas. Contact me.
+I am always open to new ideas.
