@@ -3,7 +3,7 @@ layout: post
 ---
 In the absence of four millennia with six centuries to spare removed from the status of our day, you will find a monster. A serpent so cunning that the very conscious fabric around him would be tainted. The seeming defect of human stagnation reclassified as divine ordinance under his rule. For he was the precursor. He was the genius. The father of coercion. The bringer of invisible bounds. He in the footsteps of Sekhmet.
 
-He would not have seen himself that way.
+He would not have seen himself that way. 
 
 In the absence of four millennia with four centuries to spare removed from the status of our day, you will find a monster. A beast so foul that the very ground rejected his claim to its ownership. Beyond his word, beyond his loyalty, nothing. For he was the first. He was the beginning. The father of subjugation. The bringer of debts. He in the footsteps of Adapa.
 
